@@ -7,7 +7,7 @@ Computer Science Student
 I am a third-year Computer Science student seeking a mobile developer or software engineer internship to enhance my technical skills and contribute meaningfully to an innovative and dynamic team. I am eager to apply my knowledge, collaborate on impactful projects, and gain hands-on experience in a professional environment.
 
 * 🌍  I'm based in Khon Kaen, Thailand
-* ✉️  You can contact me at [panyawut.s@kkumail.com](mailto:panyawut.s@kkumail.com)
+* ✉️  You can contact me at [petongable@gmail.com](mailto:petongable@gmail.com)
 * 🧠  I'm learning Software Engineer, Mobile Development and Web Development
 
 ### Skills
